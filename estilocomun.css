@@ -1,0 +1,15 @@
+h1{
+    background-color: gray;
+    color: white;
+}
+.p1{
+    background-color: lightgreen;
+}
+.classp2 nav a{
+    color:red;
+    font-weight: bold;
+}
+.classp1 nav{
+    color: antiquewhite;
+    font-weight: bold;
+}
